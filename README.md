@@ -1,1 +1,2 @@
-# MAKE-MY-OWN-GAME
+# synchronousBallMovement
+Ball moving synchronously
